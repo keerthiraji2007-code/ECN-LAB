@@ -24,9 +24,12 @@
 
 **CIRCUIT DIAGRAM:**
 
+![photo 1](https://github.com/user-attachments/assets/cb15e4d3-c23c-4ffa-8a71-a7cb8025294a)
 
 
+** Tabular column  and calculation **
 
+![photo 2](https://github.com/user-attachments/assets/3b108a3e-9140-4e16-a33d-a53c1365cace)
 
 
 
