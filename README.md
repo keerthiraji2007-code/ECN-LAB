@@ -24,7 +24,10 @@
 
 **CIRCUIT DIAGRAM:**
 
+![photo 1](https://github.com/user-attachments/assets/9335ab48-f2bb-4045-92ac-2a4a911f6c66)
 
+**Tabular column**
+![photo 2](https://github.com/user-attachments/assets/8e8f548e-884f-45e0-aff0-e028dc3a8ac8)
 
 
 
