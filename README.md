@@ -26,6 +26,8 @@
 
 ![photo 1](https://github.com/user-attachments/assets/ea069384-73bc-4b91-9501-612d5d6481ec)
 
+tabular colum and calculation :
+![photo 2](https://github.com/user-attachments/assets/6fd9776c-76a8-470a-b1cd-b7e721ca757e)
 
 **PROCEDURE:**
 
